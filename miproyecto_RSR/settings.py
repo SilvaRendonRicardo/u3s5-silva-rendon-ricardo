@@ -174,4 +174,8 @@ STORAGES = {
     # cierre de la config de "staticfiles"
     },
 # cierre del diccionario STORAGES
+
 } 
+
+LOGIN_URL = '/admin/login/'
+
